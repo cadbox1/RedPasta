@@ -30,10 +30,20 @@ Heston's 1:10:100 ratio salt:pasta:water
 
 ### Sauce
 1. Chop onions, garlic and chicken
+    1. Dice Onion 
+        1. cut off the root end only
+        1. sit the onion on the newly cut end
+        1. cut it in half
+        1. peel the skin using the pointy end
+        1. cut with the grain towards the pointy end while leaving a bit of the pointy end uncut to help keep it together
+        1. finally cut across the grain
+    1. Chop garlic
+        1. remove the skin by crushing the clove with the side of your knife
+        1. plant the end of the knife then raise and chop the handle end of the knife while feeding the garlic through long ways
 1. Heat the olive oil in a frying pan on medium heat for 1 min
 1. Add the onions, garlic and chicken
 1. Cook for 4 mins
-1. Cut the mushrooms and eggplant and add it
+1. Chop the mushrooms and eggplant and add it
 1. Cook for 4 mins while adding olives
 1. Add the sauce
 1. Add chilli flakes, basil and pepper
