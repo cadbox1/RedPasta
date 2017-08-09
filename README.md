@@ -10,8 +10,8 @@ Time: 20 min
 * 1kg Leggos Roasted Garlic Pasta Sauce
 * 6 Garlic Cloves
 * 1 Onion
-* 1/2 Cup olive oil
-* 8 Mushrooms
+* 1/4 Cup olive oil
+* 8 Large Mushrooms
 * 1/2 Eggplant
 * 100g Kalamata Olives
 * 100g Lemnos Low Fat Feta
